@@ -1,0 +1,54 @@
+
+
+html { 
+    background-color: rgba(175, 175, 170, 0.938);
+
+
+}
+header h1{ 
+    color: rgb(117, 8, 8);
+    font-family:cursive ;
+    font-style: unset;
+    text-align: center;
+
+}
+
+    
+nav ul li { display:  inline-block;
+    width: 50px;
+    height: 50px;
+    margin-left: 350px;
+    margin-top: 50px;
+    }
+nav { background-color: rgba(110, 110, 105, 0.938);
+}
+#intro {
+    text-align: center;
+    font-style: normal;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+
+}
+#house{margin-left: 410px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+ #villa{ width: 500px;
+margin-left: 400px;
+margin-top: 50px;
+ }
+ footer{
+     text-align: center;
+     margin-top: 80px;
+     background-color:cyan;
+
+ }
+.tab{
+    text-decoration: none;
+    
+    color:white;
+
+    
+}
+
+
